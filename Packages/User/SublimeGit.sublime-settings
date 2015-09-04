@@ -1,0 +1,10 @@
+{
+	"email": "dbkirk@gmail.com",
+	"product_key": "8d79b3c47579e83e967a20b9177a81be",
+  "git_executables": {
+      "git": ["/usr/local/bin/git"],
+      "git_flow": ["git-flow"],
+      "legit": ["legit"],
+      "gitk": ["/usr/local/bin/gitk"]
+  }
+}

@@ -1,0 +1,4 @@
+[
+  { "keys": ["f3"], "command": "goto_definition" },
+  { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+]
